@@ -1,1 +1,2 @@
 #!/bin/bash
+ ls -la > ils_cwd_content 
